@@ -8,7 +8,7 @@
    - Python 3.11 or 3.12
    - pip
 
- ### How to replicate
+ ### Replication Guide
   
 - Clone this repository and cd into it
 
@@ -18,9 +18,14 @@
 
       python -m venv venv
 
-- If you are got into a dev shell with the shell.nix, use this to create a virtual environment
+- Activate the virtual environment depending on what shell you are using
+    for bash
+  
+      source ./venv/bin/activate
 
-      virtualvenv venv
+    for powershell
+
+      ./Activate.ps1
 
 - Install all dependencies
 
@@ -30,9 +35,11 @@
 
       jupyter-lab
 
-  ![image](https://github.com/user-attachments/assets/791fe6e8-66de-449c-abae-52ba2bf0cf2c)
+  ![first](https://github.com/user-attachments/assets/93f70790-12f9-4ab0-92bf-1c91c6a0bd25)
 
-  ![image](https://github.com/user-attachments/assets/868e98b1-f8e3-49d1-858b-d9cf0afa9521)
+  ![second](https://github.com/user-attachments/assets/925aedaa-f937-4304-8e21-a2112b111281)
+  
+  ![full](https://github.com/user-attachments/assets/6dd841c4-137e-4de6-b416-95546c8179aa)
 
 
 
