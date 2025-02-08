@@ -16,10 +16,10 @@
 
 - Create a virtual python environment using one of these
   ```
-      python -m venv venv
+  python -m venv venv
   ```
   ```
-      virtualenv venv
+  virtualenv venv
   ```
 
 - Activate the virtual environment depending on what shell you are using
