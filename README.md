@@ -30,9 +30,9 @@
 
       jupyter-lab
 
-![image](https://github.com/user-attachments/assets/791fe6e8-66de-449c-abae-52ba2bf0cf2c)
+  ![image](https://github.com/user-attachments/assets/791fe6e8-66de-449c-abae-52ba2bf0cf2c)
 
-![image](https://github.com/user-attachments/assets/868e98b1-f8e3-49d1-858b-d9cf0afa9521)
+  ![image](https://github.com/user-attachments/assets/868e98b1-f8e3-49d1-858b-d9cf0afa9521)
 
 
 
