@@ -1,4 +1,4 @@
-#  ASSIGNMENT 1 Y1S2: A Small Data Science Project
+#  ASSIGNMENT 1 Y2S2: A Small Data Science Project
 
 ### Prequisites
   
