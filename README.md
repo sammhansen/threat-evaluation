@@ -14,9 +14,11 @@
 
       git clone https://github.com/sammhansen/threat-evaluation.git && cd threat-evaluation
 
-- Create a virtual python environment
+- Create a virtual python environment using one of these
 
       python -m venv venv
+
+      virtualenv venv
 
 - Activate the virtual environment depending on what shell you are using
 
