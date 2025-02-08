@@ -1,5 +1,8 @@
 #  ASSIGNMENT 1 Y2S2: A Small Data Science Project
 
+![question](https://github.com/user-attachments/assets/1ce2d61a-8644-4781-a723-45f9a010225c)
+
+
 ### Prequisites
   
    - Python 3.11 or 3.12
