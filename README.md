@@ -18,15 +18,7 @@
 
       python -m venv venv
 
-- Activate the virtual environment depending on what shell you are using <br>
-
-    for bash
-  
-      source ./venv/bin/activate
-
-    for powershell
-
-      ./Activate.ps1
+- Activate the virtual environment depending on what shell you are using
 
 - Install all dependencies
 
