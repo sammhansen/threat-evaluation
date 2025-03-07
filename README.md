@@ -1,19 +1,18 @@
-# A Linear Regression Model For Analyzing Road Accident Severity 
+#  ASSIGNMENT 1 Y2S2: A Small Data Science Project
 
-![image](https://github.com/user-attachments/assets/53c2ebdc-fd14-4381-83f0-103b5e99d729)
-
+![question](https://github.com/user-attachments/assets/1ce2d61a-8644-4781-a723-45f9a010225c)
 
 
 ### Prequisites
   
-   - `python 3.1*`
-   - `pip`
+   - Python 3.11 or 3.12
+   - pip
 
  ### Replication Guide
   
 - Clone this repository and cd into it
 
-      git clone https://github.com/sammhansen/accident-prediction.git && cd accident-prediction
+      git clone https://github.com/sammhansen/threat-evaluation.git && cd threat-evaluation
 
 - Create a virtual python environment using one of these
   ```
@@ -29,16 +28,15 @@
 
       pip install -r requirements.txt
   
-- Run the `main.py` file to train the model and save it
+- Run jupyter-lab
 
-      python main.py
+      jupyter-lab
+
+  ![first](https://github.com/user-attachments/assets/93f70790-12f9-4ab0-92bf-1c91c6a0bd25)
+
+  ![second](https://github.com/user-attachments/assets/925aedaa-f937-4304-8e21-a2112b111281)
   
-- Run the `predict.py` to use the earlier trained model with actual data
-
-      python predict.py 
-
-![image](https://github.com/user-attachments/assets/c15c6a85-aa5e-4a4f-a7f5-10282a0b7326)
-
+  ![full](https://github.com/user-attachments/assets/6dd841c4-137e-4de6-b416-95546c8179aa)
 
 
 
