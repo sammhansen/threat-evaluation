@@ -1,12 +1,12 @@
-#  ASSIGNMENT 1 Y2S2: A Small Data Science Project
+#  ASS 1 Datascience Y2S2: Training A Linear Regression Model For Analyze Road Accident Severity 
 
 ![question](https://github.com/user-attachments/assets/1ce2d61a-8644-4781-a723-45f9a010225c)
 
 
 ### Prequisites
   
-   - Python 3.11 or 3.12
-   - pip
+   - `python 3.1*`
+   - `pip`
 
  ### Replication Guide
   
@@ -28,15 +28,16 @@
 
       pip install -r requirements.txt
   
-- Run jupyter-lab
+- Run the `main.py` file to train the model and save it
 
-      jupyter-lab
-
-  ![first](https://github.com/user-attachments/assets/93f70790-12f9-4ab0-92bf-1c91c6a0bd25)
-
-  ![second](https://github.com/user-attachments/assets/925aedaa-f937-4304-8e21-a2112b111281)
+      python main.py
   
-  ![full](https://github.com/user-attachments/assets/6dd841c4-137e-4de6-b416-95546c8179aa)
+- Run the `predict.py` to use the earlier trained model with actual data
+
+      python predict.py 
+
+![image](https://github.com/user-attachments/assets/c15c6a85-aa5e-4a4f-a7f5-10282a0b7326)
+
 
 
 
