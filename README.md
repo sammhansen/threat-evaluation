@@ -1,6 +1,7 @@
 #  ASS 1 Datascience Y2S2: Training A Linear Regression Model For Analyze Road Accident Severity 
 
-![question](https://github.com/user-attachments/assets/1ce2d61a-8644-4781-a723-45f9a010225c)
+![image](https://github.com/user-attachments/assets/53c2ebdc-fd14-4381-83f0-103b5e99d729)
+
 
 
 ### Prequisites
