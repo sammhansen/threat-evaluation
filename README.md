@@ -13,7 +13,7 @@
   
 - Clone this repository and cd into it
 
-      git clone https://github.com/sammhansen/threat-evaluation.git && cd threat-evaluation
+      git clone https://github.com/sammhansen/accident-prediction.git && cd accident-prediction
 
 - Create a virtual python environment using one of these
   ```
